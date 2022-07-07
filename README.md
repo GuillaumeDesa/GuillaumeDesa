@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuillaumeDesa (short for Guillaume Desagulier). I am an Associate Professor of Linguistics at Paris 8 University, France, and a researcher at the MoDyCo laboratory of the University of Paris Nanterre
+- 👋 Hi, I’m @GuillaumeDesa (short for Guillaume Desagulier). I am an Associate Professor of Linguistics at Paris 8 University, France, and a researcher at MoDyCo, a linguistics laboratory at Paris Nanterre University
 - 👀 I’m interested in corpus-linguistics and statistical techniques to test usage-based hypotheses (cognitive linguistics, functional linguistics, sociolinguistics)
 - 💞️ I’m looking to collaborate on deep learning for linguistics (word2vec, BERT, GPT3)
 - 📫 Reach me on Twitter: @gdlinguist
